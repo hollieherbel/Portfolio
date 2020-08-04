@@ -1,0 +1,24 @@
+.intro {
+    
+    img {
+        position: absolute;
+        z-index: -1;
+        height: 100%;
+        width: 100%;
+    }
+
+    .intro-name {
+        margin-left: 780px;
+        margin-top: 0px;
+        color: whitesmoke;
+        padding-top: 125px;
+        font-size: 30px;
+        font-weight: lighter;
+    }
+
+    .link {
+        margin-left: 780px;
+        color: whitesmoke;
+        padding-top: -5px;
+    }
+}
