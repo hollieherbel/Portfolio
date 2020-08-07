@@ -10,7 +10,7 @@ export default function homepage(props) {
             <div className='intro'>
                 <img src={Coffee} alt="Coffee"></img>
                 <h3 className="intro-name">Hello... <br/> I'm Hollie, <br /> a Website Developer</h3>
-                    <div className="link"> Click here for my work!</div>
+                    <a href="https://quiet-fjord-64460.herokuapp.com/" className="link">Click here for my work!</a>
             </div>
         </div>
     )
